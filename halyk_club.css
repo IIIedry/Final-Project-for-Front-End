@@ -41,3 +41,6 @@ a{
     position: relative;
     top: 12px;
 }
+li{
+    width: 150%;
+}
