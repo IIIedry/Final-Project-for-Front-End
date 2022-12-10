@@ -19,6 +19,10 @@ a{
 .Ul_first{
     display: flex;
 }
+.Ul_first.Down{
+    display: contents;
+    nav-down: auto;
+}
 .list{
     display: flex;
     align-items: center;
